@@ -5,10 +5,10 @@
         {
             id: 'SB64-USBC-009',
             name: 'ACDC Back N Black Controller',
-            description: 'ACDC Back N Black Lid with Gold Red Blue Body, all Black buttons, 2" White trackball, Silver spinner, Atari DB-9 port. 8ft detachable USB cable, heavy duty design. Patent pending by designer Todd Bruss. Compatible with Windows, Mac, Linux, Raspberry Pi, PS3.',
+            description: 'ACDC Back N Black Lid with Gold Red Blue Body, all Black buttons, 2" White trackball, Silver spinner, Atari DB-9 port. 8ft detachable USB cable, heavy duty design. Patent pending by designer Heisenburg. Compatible with Windows, Mac, Linux, Raspberry Pi, PS3.',
             price: 399.99,
             image: './images/superbox64acdcbackinblack-newsuperbox64bodystyle.JPG',
-            altText: 'SuperBox64 ACDC Back N Black USB Arcade Controller - Retro Gaming Joystick Trackball Spinner - Windows Mac Linux Raspberry Pi PS3 - Custom Arcade Stick DB9 Port - Todd Bruss Designer - Fighting Game Controller',
+            altText: 'SuperBox64 ACDC Back N Black USB Arcade Controller - Retro Gaming Joystick Trackball Spinner - Windows Mac Linux Raspberry Pi PS3 - Custom Arcade Stick DB9 Port - Heisenburg Designer - Fighting Game Controller',
             paypalLink: 'https://www.paypal.com/ncp/payment/XVRFHUZA4N7J8'
         },
         {
@@ -23,10 +23,10 @@
         {
             id: 'SB64-USBC-007',
             name: 'Atari Orange Controller',
-            description: 'Orange buttons, Yellow trackball, Silver spinner, Orange joystick, White select start buttons, Atari DB-9 port on the front. USB port on the back, 8 foot Black USB cable that\'s detachable! 4 side buttons, Heavy Duty design. Case, layout, logo, colorway patent pending screw system by designer Todd Bruss.',
+            description: 'Orange buttons, Yellow trackball, Silver spinner, Orange joystick, White select start buttons, Atari DB-9 port on the front. USB port on the back, 8 foot Black USB cable that\'s detachable! 4 side buttons, Heavy Duty design. Case, layout, logo, colorway patent pending screw system by designer Heisenburg.',
             price: 399.99,
             image: './images/superbox64atariorange.jpg',
-            altText: 'SuperBox64 Atari Orange USB Game Controller - Custom Arcade Stick Orange Joystick Yellow Trackball - Retro Gaming Hardware - DB9 Atari Port - Todd Bruss Patent Pending Design - Arcade Fighting Stick',
+            altText: 'SuperBox64 Atari Orange USB Game Controller - Custom Arcade Stick Orange Joystick Yellow Trackball - Retro Gaming Hardware - DB9 Atari Port - Heisenburg Patent Pending Design - Arcade Fighting Stick',
             paypalLink: 'https://www.paypal.com/ncp/payment/92AM3BSP58U6J'
         },
         {
@@ -45,7 +45,7 @@
             price: 499.99,
             priceHigh: 599.99,
             image: './images/superbox64_yellowtrak.jpeg',
-            altText: 'SuperBox64 Yellow Trackball Gaming Console - Raspberry Pi5 Retro Arcade System - Yellow Trackball Joystick Spinner - SuperBox64OS Preinstalled - Retro Emulation Console - Custom Gaming System Todd Bruss - Arcade Machine Console',
+            altText: 'SuperBox64 Yellow Trackball Gaming Console - Raspberry Pi5 Retro Arcade System - Yellow Trackball Joystick Spinner - SuperBox64OS Preinstalled - Retro Emulation Console - Custom Gaming System Heisenburg - Arcade Machine Console',
             paypalLink: 'https://www.paypal.com/ncp/payment/WCMSTDZWA9KS2'
         },
         {
