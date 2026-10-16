@@ -231,7 +231,7 @@ function init() {
                 // Fallback: open email client if Worker is unavailable
                 const subject = encodeURIComponent('SuperBox64 inquiry from ' + name);
                 const body = encodeURIComponent(message + '\n\nFrom: ' + name + '\nEmail: ' + email);
-                const mailtoLink = 'mailto:starplayr@icloud.com?subject=' + subject + '&body=' + body;
+                const mailtoLink = 'mailto:agent@agentiloop.ai?subject=' + subject + '&body=' + body;
                 window.location.href = mailtoLink;
                 showMessage('Opening your email app as a backup...', 'success');
             } finally {
